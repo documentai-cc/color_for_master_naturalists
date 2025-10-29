@@ -1,0 +1,15 @@
+/* Fonts CSS for Master Naturalist Color Vocabulary */
+
+/* System font stack for optimal performance */
+:root {
+    --font-system: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    --font-mono: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
+}
+
+body {
+    font-family: var(--font-system);
+}
+
+code, pre {
+    font-family: var(--font-mono);
+}

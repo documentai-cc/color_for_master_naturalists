@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Master Naturalist Color Vocabulary Tool">
+    <meta name="theme-color" content="#4CAF50">
+    <title>Master Naturalist Color Vocabulary</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="assets/fonts.css">
+    <link rel="stylesheet" href="assets/henry.css">
+    <link rel="stylesheet" href="assets/input.css">
+    <link rel="stylesheet" href="assets/theme.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="icon-192.png">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Master Naturalist Color Vocabulary</h1>
+            <p>Select colors from the wheel to find matching vocabulary</p>
+        </header>
+
+        <div class="controls">
+            <div class="control-group">
+                <label for="dataset-select">Dataset:</label>
+                <select id="dataset-select">
+                    <option value="master_naturalist">Master Naturalist Color Vocabulary</option>
+                    <option value="rayner">Rayner Mycological Color Chart</option>
+                </select>
+            </div>
+
+            <div class="control-group">
+                <button id="clear-selection" class="btn btn-secondary">Clear Selection</button>
+                <button id="find-colors" class="btn btn-primary">Find Matching Colors</button>
+            </div>
+        </div>
+
+        <div class="color-wheel-container">
+            <canvas id="color-wheel"></canvas>
+            <canvas id="selection-overlay"></canvas>
+            <div class="instructions">
+                Draw a circle around colors with your finger or mouse
+            </div>
+        </div>
+
+        <div id="results-section" class="hidden">
+            <div class="results-header">
+                <h2>Matching Color Vocabulary (<span id="results-count">0</span>)</h2>
+                <div class="export-controls">
+                    <button id="select-all" class="btn btn-secondary">Select All</button>
+                    <button id="deselect-all" class="btn btn-secondary">Deselect All</button>
+                    <button id="export-csv" class="btn btn-success">Export to CSV (Anki)</button>
+                </div>
+            </div>
+            <div id="vocab-cards" class="vocab-cards"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

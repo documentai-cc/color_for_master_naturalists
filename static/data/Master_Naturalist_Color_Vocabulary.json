@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Cerulean Blue",
+    "hex": "#007BA7",
+    "rgb": {"r": 0, "g": 123, "b": 167},
+    "description": "A deep blue color resembling the sky on a clear day",
+    "category": "Blue"
+  },
+  {
+    "name": "Forest Green",
+    "hex": "#228B22",
+    "rgb": {"r": 34, "g": 139, "b": 34},
+    "description": "Rich green color typical of dense forest foliage",
+    "category": "Green"
+  },
+  {
+    "name": "Crimson",
+    "hex": "#DC143C",
+    "rgb": {"r": 220, "g": 20, "b": 60},
+    "description": "Deep, vivid red color often seen in flowers and berries",
+    "category": "Red"
+  },
+  {
+    "name": "Amber",
+    "hex": "#FFBF00",
+    "rgb": {"r": 255, "g": 191, "b": 0},
+    "description": "Golden yellow-orange like fossilized tree resin",
+    "category": "Orange"
+  },
+  {
+    "name": "Lavender",
+    "hex": "#E6E6FA",
+    "rgb": {"r": 230, "g": 230, "b": 250},
+    "description": "Pale purple color of lavender flowers",
+    "category": "Purple"
+  },
+  {
+    "name": "Olive",
+    "hex": "#808000",
+    "rgb": {"r": 128, "g": 128, "b": 0},
+    "description": "Yellow-green color of unripe olives",
+    "category": "Green"
+  },
+  {
+    "name": "Sienna",
+    "hex": "#A0522D",
+    "rgb": {"r": 160, "g": 82, "b": 45},
+    "description": "Earthy brown-orange color found in clay and soil",
+    "category": "Brown"
+  },
+  {
+    "name": "Slate Gray",
+    "hex": "#708090",
+    "rgb": {"r": 112, "g": 128, "b": 144},
+    "description": "Gray color with blue tones, like slate rock",
+    "category": "Gray"
+  },
+  {
+    "name": "Moss Green",
+    "hex": "#8A9A5B",
+    "rgb": {"r": 138, "g": 154, "b": 91},
+    "description": "Muted green color of moss and lichen",
+    "category": "Green"
+  },
+  {
+    "name": "Coral",
+    "hex": "#FF7F50",
+    "rgb": {"r": 255, "g": 127, "b": 80},
+    "description": "Pink-orange color of coral reefs",
+    "category": "Orange"
+  },
+  {
+    "name": "Turquoise",
+    "hex": "#40E0D0",
+    "rgb": {"r": 64, "g": 224, "b": 208},
+    "description": "Blue-green color found in shallow tropical waters",
+    "category": "Blue"
+  },
+  {
+    "name": "Burgundy",
+    "hex": "#800020",
+    "rgb": {"r": 128, "g": 0, "b": 32},
+    "description": "Deep red-purple color of wine",
+    "category": "Red"
+  },
+  {
+    "name": "Sage",
+    "hex": "#BCB88A",
+    "rgb": {"r": 188, "g": 184, "b": 138},
+    "description": "Grayish-green color of sage leaves",
+    "category": "Green"
+  },
+  {
+    "name": "Terracotta",
+    "hex": "#E2725B",
+    "rgb": {"r": 226, "g": 114, "b": 91},
+    "description": "Reddish-brown color of clay pottery and soil",
+    "category": "Brown"
+  },
+  {
+    "name": "Azure",
+    "hex": "#007FFF",
+    "rgb": {"r": 0, "g": 127, "b": 255},
+    "description": "Bright cyan-blue color of a cloudless sky",
+    "category": "Blue"
+  },
+  {
+    "name": "Chartreuse",
+    "hex": "#7FFF00",
+    "rgb": {"r": 127, "g": 255, "b": 0},
+    "description": "Yellow-green color between yellow and green",
+    "category": "Green"
+  },
+  {
+    "name": "Mahogany",
+    "hex": "#C04000",
+    "rgb": {"r": 192, "g": 64, "b": 0},
+    "description": "Reddish-brown color of mahogany wood",
+    "category": "Brown"
+  },
+  {
+    "name": "Periwinkle",
+    "hex": "#CCCCFF",
+    "rgb": {"r": 204, "g": 204, "b": 255},
+    "description": "Pale blue-purple color of periwinkle flowers",
+    "category": "Purple"
+  },
+  {
+    "name": "Ochre",
+    "hex": "#CC7722",
+    "rgb": {"r": 204, "g": 119, "b": 34},
+    "description": "Yellow-brown earth pigment color",
+    "category": "Brown"
+  },
+  {
+    "name": "Vermillion",
+    "hex": "#E34234",
+    "rgb": {"r": 227, "g": 66, "b": 52},
+    "description": "Brilliant red or scarlet pigment",
+    "category": "Red"
+  }
+]

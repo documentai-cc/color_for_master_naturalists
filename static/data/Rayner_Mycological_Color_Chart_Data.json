@@ -1,0 +1,212 @@
+[
+  {
+    "name": "White",
+    "hex": "#FFFFFF",
+    "rgb": {"r": 255, "g": 255, "b": 255},
+    "description": "Pure white, common in young mushroom caps and gills",
+    "category": "White"
+  },
+  {
+    "name": "Cream",
+    "hex": "#FFFDD0",
+    "rgb": {"r": 255, "g": 253, "b": 208},
+    "description": "Off-white with yellow tones, typical of aged mushroom tissue",
+    "category": "White"
+  },
+  {
+    "name": "Buff",
+    "hex": "#F0DC82",
+    "rgb": {"r": 240, "g": 220, "b": 130},
+    "description": "Light brownish-yellow color",
+    "category": "Yellow"
+  },
+  {
+    "name": "Ochraceous",
+    "hex": "#CC7722",
+    "rgb": {"r": 204, "g": 119, "b": 34},
+    "description": "Yellow-brown to orange-brown color",
+    "category": "Brown"
+  },
+  {
+    "name": "Cinnamon",
+    "hex": "#D2691E",
+    "rgb": {"r": 210, "g": 105, "b": 30},
+    "description": "Reddish-brown color of cinnamon spice",
+    "category": "Brown"
+  },
+  {
+    "name": "Rufous",
+    "hex": "#A81C07",
+    "rgb": {"r": 168, "g": 28, "b": 7},
+    "description": "Reddish-brown color, rusty",
+    "category": "Brown"
+  },
+  {
+    "name": "Vinaceous",
+    "hex": "#954535",
+    "rgb": {"r": 149, "g": 69, "b": 53},
+    "description": "Wine-colored, purplish-red to brownish-red",
+    "category": "Red"
+  },
+  {
+    "name": "Ferruginous",
+    "hex": "#8B4513",
+    "rgb": {"r": 139, "g": 69, "b": 19},
+    "description": "Rust-colored, iron-brown",
+    "category": "Brown"
+  },
+  {
+    "name": "Fulvous",
+    "hex": "#E48400",
+    "rgb": {"r": 228, "g": 132, "b": 0},
+    "description": "Dull brownish-yellow or tawny",
+    "category": "Orange"
+  },
+  {
+    "name": "Luteous",
+    "hex": "#FFD700",
+    "rgb": {"r": 255, "g": 215, "b": 0},
+    "description": "Egg-yellow, golden yellow",
+    "category": "Yellow"
+  },
+  {
+    "name": "Citrine",
+    "hex": "#E4D00A",
+    "rgb": {"r": 228, "g": 208, "b": 10},
+    "description": "Lemon-yellow color",
+    "category": "Yellow"
+  },
+  {
+    "name": "Olivaceous",
+    "hex": "#556B2F",
+    "rgb": {"r": 85, "g": 107, "b": 47},
+    "description": "Olive-colored, yellowish or brownish-green",
+    "category": "Green"
+  },
+  {
+    "name": "Glaucous",
+    "hex": "#6082B6",
+    "rgb": {"r": 96, "g": 130, "b": 182},
+    "description": "Grayish-blue or grayish-green with a bloom",
+    "category": "Blue"
+  },
+  {
+    "name": "Livid",
+    "hex": "#6699CC",
+    "rgb": {"r": 102, "g": 153, "b": 204},
+    "description": "Bluish-gray color",
+    "category": "Blue"
+  },
+  {
+    "name": "Lilac",
+    "hex": "#C8A2C8",
+    "rgb": {"r": 200, "g": 162, "b": 200},
+    "description": "Pale purple color of lilac flowers",
+    "category": "Purple"
+  },
+  {
+    "name": "Violaceous",
+    "hex": "#8F00FF",
+    "rgb": {"r": 143, "g": 0, "b": 255},
+    "description": "Violet-colored, purple",
+    "category": "Purple"
+  },
+  {
+    "name": "Umber",
+    "hex": "#635147",
+    "rgb": {"r": 99, "g": 81, "b": 71},
+    "description": "Dark brown, earth-brown",
+    "category": "Brown"
+  },
+  {
+    "name": "Sepia",
+    "hex": "#704214",
+    "rgb": {"r": 112, "g": 66, "b": 20},
+    "description": "Dark brown with a reddish tinge",
+    "category": "Brown"
+  },
+  {
+    "name": "Fuliginous",
+    "hex": "#1C1C1C",
+    "rgb": {"r": 28, "g": 28, "b": 28},
+    "description": "Sooty brown to black",
+    "category": "Black"
+  },
+  {
+    "name": "Fuscous",
+    "hex": "#3D3D3D",
+    "rgb": {"r": 61, "g": 61, "b": 61},
+    "description": "Dark grayish-brown",
+    "category": "Brown"
+  },
+  {
+    "name": "Porphyry",
+    "hex": "#702963",
+    "rgb": {"r": 112, "g": 41, "b": 99},
+    "description": "Purple-red color",
+    "category": "Purple"
+  },
+  {
+    "name": "Sordid",
+    "hex": "#9C8D7C",
+    "rgb": {"r": 156, "g": 141, "b": 124},
+    "description": "Dirty grayish or brownish",
+    "category": "Gray"
+  },
+  {
+    "name": "Testaceous",
+    "hex": "#B87333",
+    "rgb": {"r": 184, "g": 115, "b": 51},
+    "description": "Brick-red or brownish-red",
+    "category": "Red"
+  },
+  {
+    "name": "Incarnate",
+    "hex": "#FFB6C1",
+    "rgb": {"r": 255, "g": 182, "b": 193},
+    "description": "Flesh-colored, pinkish",
+    "category": "Pink"
+  },
+  {
+    "name": "Isabeline",
+    "hex": "#F4F0EC",
+    "rgb": {"r": 244, "g": 240, "b": 236},
+    "description": "Pale gray-yellow, soiled white",
+    "category": "Gray"
+  },
+  {
+    "name": "Stramineous",
+    "hex": "#E7D192",
+    "rgb": {"r": 231, "g": 209, "b": 146},
+    "description": "Straw-colored, pale yellow",
+    "category": "Yellow"
+  },
+  {
+    "name": "Flavous",
+    "hex": "#F0E68C",
+    "rgb": {"r": 240, "g": 230, "b": 140},
+    "description": "Pure yellow color",
+    "category": "Yellow"
+  },
+  {
+    "name": "Cerulean",
+    "hex": "#007BA7",
+    "rgb": {"r": 0, "g": 123, "b": 167},
+    "description": "Deep sky-blue",
+    "category": "Blue"
+  },
+  {
+    "name": "Aeruginous",
+    "hex": "#43B3AE",
+    "rgb": {"r": 67, "g": 179, "b": 174},
+    "description": "Blue-green, verdigris color",
+    "category": "Green"
+  },
+  {
+    "name": "Castaneous",
+    "hex": "#592720",
+    "rgb": {"r": 89, "g": 39, "b": 32},
+    "description": "Chestnut-brown, dark reddish-brown",
+    "category": "Brown"
+  }
+]
